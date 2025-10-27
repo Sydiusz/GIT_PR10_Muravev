@@ -1,7 +1,7 @@
 name: MyAction     
 on: push
 jobs:
-  runProjext:
+  runProject:
     runs-on: windows-latest
     steps:
       - name: Checkout
