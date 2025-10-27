@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine(DateTime.Now);
-Console.WriteLine("IS-22A Muravev Maksim Alekseevich")
+Console.WriteLine("IS-22A Muravev Maksim Alekseevich");
